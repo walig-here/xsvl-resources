@@ -8,6 +8,13 @@
     { "predicate": { "custom_model_data": 7810001 }, "model": "minecraft:item/pile_of_coarse_dirt" },
     { "predicate": { "custom_model_data": 7810002 }, "model": "minecraft:item/pile_of_rooted_dirt" },
     { "predicate": { "custom_model_data": 7810005 }, "model": "minecraft:item/pile_of_gravel" },
-    { "predicate": { "custom_model_data": 7810006 }, "model": "minecraft:item/pile_of_sand" }
+    { "predicate": { "custom_model_data": 7810006 }, "model": "minecraft:item/pile_of_sand" },
+    { "predicate": { "custom_model_data": 7810007 }, "model": "minecraft:item/sandstone_pebble" },
+    { "predicate": { "custom_model_data": 7810008 }, "model": "minecraft:item/pile_of_red_sand" },
+    { "predicate": { "custom_model_data": 7810009 }, "model": "minecraft:item/red_sandstone_pebble" },
+    { "predicate": { "custom_model_data": 7810010 }, "model": "minecraft:item/moss" },
+    { "predicate": { "custom_model_data": 7810011 }, "model": "minecraft:item/pebble" },
+    { "predicate": { "custom_model_data": 7810012 }, "model": "minecraft:item/deepslate_pebble" },
+    { "predicate": { "custom_model_data": 7810013 }, "model": "minecraft:item/granite_pebble" }
   ]
 }
