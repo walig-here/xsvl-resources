@@ -6,6 +6,8 @@
   "overrides": [
     { "predicate": { "custom_model_data": 7810000 }, "model": "minecraft:item/pile_of_dirt" },
     { "predicate": { "custom_model_data": 7810001 }, "model": "minecraft:item/pile_of_coarse_dirt" },
-    { "predicate": { "custom_model_data": 7810002 }, "model": "minecraft:item/pile_of_rooted_dirt" }
+    { "predicate": { "custom_model_data": 7810002 }, "model": "minecraft:item/pile_of_rooted_dirt" },
+    { "predicate": { "custom_model_data": 7810005 }, "model": "minecraft:item/pile_of_gravel" },
+    { "predicate": { "custom_model_data": 7810006 }, "model": "minecraft:item/pile_of_sand" }
   ]
 }
