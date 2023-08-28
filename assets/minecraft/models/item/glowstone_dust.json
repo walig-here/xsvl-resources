@@ -19,6 +19,7 @@
     { "predicate": { "custom_model_data": 7810016 }, "model": "minecraft:item/diorite_pebble" },
     { "predicate": { "custom_model_data": 7810017 }, "model": "minecraft:item/andesite_pebble" },
     { "predicate": { "custom_model_data": 7810020 }, "model": "minecraft:item/calcite_pebble" },
-    { "predicate": { "custom_model_data": 7810022 }, "model": "minecraft:item/tuff_pebble" }
+    { "predicate": { "custom_model_data": 7810022 }, "model": "minecraft:item/tuff_pebble" },
+    { "predicate": { "custom_model_data": 7810024 }, "model": "minecraft:item/dripstone_pebble" }
   ]
 }

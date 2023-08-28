@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/mud_brick"
+    },
+    "type=double,waterlogged=false": {
+      "model": "minecraft:block/mud_brick"
+    },
+    "type=top": {
+      "model": "minecraft:block/mud_brick"
+    },
+    "type=double,waterlogged=true": {
+      "model": "minecraft:block/cobbled_dripstone"
+    }
+  }
+}
