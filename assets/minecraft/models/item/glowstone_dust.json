@@ -27,6 +27,8 @@
     { "predicate": { "custom_model_data": 7810028 }, "model": "minecraft:item/bone_shard" },
     { "predicate": { "custom_model_data": 7810029 }, "model": "minecraft:item/blackstone_pebble" },
     { "predicate": { "custom_model_data": 7810030 }, "model": "minecraft:item/basalt_shard" },
-    { "predicate": { "custom_model_data": 7810032 }, "model": "item/netherrack_dust"}
+    { "predicate": { "custom_model_data": 7810032 }, "model": "item/netherrack_dust"},
+    { "predicate": { "custom_model_data": 7810033 }, "model": "item/end_stone_dust"},
+    { "predicate": { "custom_model_data": 7810034 }, "model": "item/end_stone_pebble"}
   ]
 }
