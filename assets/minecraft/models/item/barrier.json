@@ -7,6 +7,7 @@
         { "predicate": {"custom_model_data": 7810014}, "model": "item/cobbled_granite"},
         { "predicate": {"custom_model_data": 7810015}, "model": "item/cobbled_diorite"},
         { "predicate": {"custom_model_data": 7810018}, "model": "item/cobbled_andesite"},
-        { "predicate": {"custom_model_data": 7810019}, "model": "item/cobbled_calcite"}
+        { "predicate": {"custom_model_data": 7810019}, "model": "item/cobbled_calcite"},
+        { "predicate": {"custom_model_data": 7810021}, "model": "item/cobbled_tuff"}
     ]
 }
