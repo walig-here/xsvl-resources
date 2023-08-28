@@ -5,6 +5,7 @@
     },
     "overrides": [
         { "predicate": {"custom_model_data": 7810014}, "model": "item/cobbled_granite"},
-        { "predicate": {"custom_model_data": 7810015}, "model": "item/cobbled_diorite"}
+        { "predicate": {"custom_model_data": 7810015}, "model": "item/cobbled_diorite"},
+        { "predicate": {"custom_model_data": 7810018}, "model": "item/cobbled_andesite"}
     ]
 }
