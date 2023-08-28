@@ -24,6 +24,7 @@
     { "predicate": { "custom_model_data": 7810025 }, "model": "minecraft:item/netherrack_pebble" },
     { "predicate": { "custom_model_data": 7810026 }, "model": "minecraft:item/pile_of_soul_sand" },
     { "predicate": { "custom_model_data": 7810027 }, "model": "minecraft:item/ball_of_soul_soil" },
-    { "predicate": { "custom_model_data": 7810028 }, "model": "minecraft:item/bone_shard" }
+    { "predicate": { "custom_model_data": 7810028 }, "model": "minecraft:item/bone_shard" },
+    { "predicate": { "custom_model_data": 7810029 }, "model": "minecraft:item/blackstone_pebble" }
   ]
 }
