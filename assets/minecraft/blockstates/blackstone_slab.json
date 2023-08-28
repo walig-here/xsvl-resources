@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/blackstone_slab"
+    },
+    "type=double,waterlogged=false": {
+      "model": "minecraft:block/blackstone_slab"
+    },
+    "type=top": {
+      "model": "minecraft:block/blackstone_slab"
+    },
+    "type=double,waterlogged=true": {
+      "model": "minecraft:block/cobbled_basalt"
+    }
+  }
+}
