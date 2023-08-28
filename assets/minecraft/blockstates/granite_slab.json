@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/granite_slab"
+    },
+    "type=double,waterlogged=false": {
+      "model": "minecraft:block/granite"
+    },
+    "type=top": {
+      "model": "minecraft:block/granite"
+    },
+    "type=double,waterlogged=true": {
+      "model": "minecraft:block/cobbled_granite"
+    }
+  }
+}
