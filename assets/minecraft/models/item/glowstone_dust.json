@@ -30,6 +30,15 @@
     { "predicate": { "custom_model_data": 7810032 }, "model": "item/netherrack_dust"},
     { "predicate": { "custom_model_data": 7810033 }, "model": "item/end_stone_dust"},
     { "predicate": { "custom_model_data": 7810034 }, "model": "item/end_stone_pebble"},
-    { "predicate": { "custom_model_data": 7810036 }, "model": "item/amethyst_dust"}
+    { "predicate": { "custom_model_data": 7810036 }, "model": "item/amethyst_dust"},
+    { "predicate": { "custom_model_data": 7810037 }, "model": "item/sawdust"},
+    { "predicate": { "custom_model_data": 7810038 }, "model": "item/oak_bark"},
+    { "predicate": { "custom_model_data": 7810039 }, "model": "item/spruce_bark"},
+    { "predicate": { "custom_model_data": 7810040 }, "model": "item/birch_bark"},
+    { "predicate": { "custom_model_data": 7810041 }, "model": "item/jungle_bark"},
+    { "predicate": { "custom_model_data": 7810042 }, "model": "item/acacia_bark"},
+    { "predicate": { "custom_model_data": 7810043 }, "model": "item/dark_oak_bark"},
+    { "predicate": { "custom_model_data": 7810044 }, "model": "item/mangrove_bark"},
+    { "predicate": { "custom_model_data": 7810045 }, "model": "item/cherry_bark"}
   ]
 }
