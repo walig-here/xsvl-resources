@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/end_stone_brick"
+    },
+    "type=double,waterlogged=false": {
+      "model": "minecraft:block/end_stone_brick"
+    },
+    "type=top": {
+      "model": "minecraft:block/end_stone_brick"
+    },
+    "type=double,waterlogged=true": {
+      "model": "minecraft:block/cobbled_end_stone"
+    }
+  }
+}

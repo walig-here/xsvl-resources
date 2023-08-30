@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/diorite_slab"
+    },
+    "type=double,waterlogged=false": {
+      "model": "minecraft:block/diorite"
+    },
+    "type=top": {
+      "model": "minecraft:block/diorite"
+    },
+    "type=double,waterlogged=true": {
+      "model": "minecraft:block/cobbled_diorite"
+    }
+  }
+}
