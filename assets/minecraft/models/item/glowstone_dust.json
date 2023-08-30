@@ -40,8 +40,8 @@
     { "predicate": { "custom_model_data": 7810043 }, "model": "item/dark_oak_bark"},
     { "predicate": { "custom_model_data": 7810044 }, "model": "item/mangrove_bark"},
     { "predicate": { "custom_model_data": 7810045 }, "model": "item/cherry_bark"},
-    { "predicate": { "custom_model_data": 7810046 }, "model": "item/crimson_hyphae"},
-    { "predicate": { "custom_model_data": 7810047 }, "model": "item/warped_hyphae"},
+    { "predicate": { "custom_model_data": 7810046 }, "model": "item/crimson_hyphae_item"},
+    { "predicate": { "custom_model_data": 7810047 }, "model": "item/warped_hyphae_item"},
     { "predicate": { "custom_model_data": 7810048 }, "model": "item/shroomlight_trama"},
     { "predicate": { "custom_model_data": 7810049 }, "model": "item/sponge_shred"}
   ]
