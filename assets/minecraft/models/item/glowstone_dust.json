@@ -46,6 +46,8 @@
     { "predicate": { "custom_model_data": 7810049 }, "model": "item/sponge_shred"},
     { "predicate": { "custom_model_data": 7810050 }, "model": "item/fungus_trama"},
     { "predicate": { "custom_model_data": 7810051 }, "model": "item/stone_brick"},
-    { "predicate": { "custom_model_data": 7810052 }, "model": "item/deepslate_brick"}
+    { "predicate": { "custom_model_data": 7810052 }, "model": "item/deepslate_brick"},
+    { "predicate": { "custom_model_data": 7810053 }, "model": "item/packed_mud_ball"},
+    { "predicate": { "custom_model_data": 7810054 }, "model": "item/mud_brick"}
   ]
 }
