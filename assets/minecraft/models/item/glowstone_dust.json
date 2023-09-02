@@ -52,6 +52,7 @@
     { "predicate": { "custom_model_data": 7810055 }, "model": "item/prismarine_brick"},
     { "predicate": { "custom_model_data": 7810056 }, "model": "item/dark_prismarine_brick"},
     { "predicate": { "custom_model_data": 7810056 }, "model": "item/red_nether_brick"},
-    { "predicate": { "custom_model_data": 7810057 }, "model": "item/blackstone_brick"}
+    { "predicate": { "custom_model_data": 7810057 }, "model": "item/blackstone_brick"},
+    { "predicate": { "custom_model_data": 7810057 }, "model": "item/end_stone_brick"}
   ]
 }
