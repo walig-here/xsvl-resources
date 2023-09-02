@@ -56,7 +56,6 @@
     { "predicate": { "custom_model_data": 7810058 }, "model": "item/end_stone_brick"},
     { "predicate": { "custom_model_data": 7810059 }, "model": "item/purpur_brick"},
     { "predicate": { "custom_model_data": 7810060 }, "model": "item/coal_dust"},
-    { "predicate": { "custom_model_data": 7810061 }, "model": "item/iron_dust"},
-    { "predicate": { "custom_model_data": 7810062 }, "model": "item/gold_dust"}
+    { "predicate": { "custom_model_data": 7810061 }, "model": "item/iron_dust"}
   ]
 }
