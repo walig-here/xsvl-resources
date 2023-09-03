@@ -58,6 +58,22 @@
     { "predicate": { "custom_model_data": 7810060 }, "model": "item/coal_dust"},
     { "predicate": { "custom_model_data": 7810061 }, "model": "item/iron_dust"},
     { "predicate": { "custom_model_data": 7810062 }, "model": "item/quartz_brick"},
-    { "predicate": { "custom_model_data": 7810063 }, "model": "item/copper_nugget"}
+    { "predicate": { "custom_model_data": 7810063 }, "model": "item/copper_nugget"},
+    { "predicate": { "custom_model_data": 7810064 }, "model": "item/white_wool_item"},
+    { "predicate": { "custom_model_data": 7810065 }, "model": "item/light_gray_wool_item"},
+    { "predicate": { "custom_model_data": 7810066 }, "model": "item/gray_wool_item"},
+    { "predicate": { "custom_model_data": 7810067 }, "model": "item/black_wool_item"},
+    { "predicate": { "custom_model_data": 7810068 }, "model": "item/brown_wool_item"},
+    { "predicate": { "custom_model_data": 7810069 }, "model": "item/red_wool_item"},
+    { "predicate": { "custom_model_data": 7810070 }, "model": "item/orange_wool_item"},
+    { "predicate": { "custom_model_data": 7810071 }, "model": "item/yellow_wool_item"},
+    { "predicate": { "custom_model_data": 7810072 }, "model": "item/lime_wool_item"},
+    { "predicate": { "custom_model_data": 7810073 }, "model": "item/green_wool_item"},
+    { "predicate": { "custom_model_data": 7810074 }, "model": "item/cyan_wool_item"},
+    { "predicate": { "custom_model_data": 7810075 }, "model": "item/light_blue_wool_item"},
+    { "predicate": { "custom_model_data": 7810076 }, "model": "item/blue_wool_item"},
+    { "predicate": { "custom_model_data": 7810077 }, "model": "item/purple_wool_item"},
+    { "predicate": { "custom_model_data": 7810078 }, "model": "item/magenta_wool_item"},
+    { "predicate": { "custom_model_data": 7810079 }, "model": "item/pink_wool_item"}
   ]
 }
