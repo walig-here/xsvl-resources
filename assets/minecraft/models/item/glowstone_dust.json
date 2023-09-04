@@ -74,6 +74,23 @@
     { "predicate": { "custom_model_data": 7810076 }, "model": "item/blue_wool_item"},
     { "predicate": { "custom_model_data": 7810077 }, "model": "item/purple_wool_item"},
     { "predicate": { "custom_model_data": 7810078 }, "model": "item/magenta_wool_item"},
-    { "predicate": { "custom_model_data": 7810079 }, "model": "item/pink_wool_item"}
+    { "predicate": { "custom_model_data": 7810079 }, "model": "item/pink_wool_item"},
+    { "predicate": { "custom_model_data": 7810080 }, "model": "item/terracotta_rubble"},
+    { "predicate": { "custom_model_data": 7810081 }, "model": "item/white_terracotta_rubble"},
+    { "predicate": { "custom_model_data": 7810082 }, "model": "item/light_gray_terracotta_rubble"},
+    { "predicate": { "custom_model_data": 7810083 }, "model": "item/gray_terracotta_rubble"},
+    { "predicate": { "custom_model_data": 7810084 }, "model": "item/black_terracotta_rubble"},
+    { "predicate": { "custom_model_data": 7810085 }, "model": "item/brown_terracotta_rubble"},
+    { "predicate": { "custom_model_data": 7810086 }, "model": "item/red_terracotta_rubble"},
+    { "predicate": { "custom_model_data": 7810087 }, "model": "item/orange_terracotta_rubble"},
+    { "predicate": { "custom_model_data": 7810088 }, "model": "item/yellow_terracotta_rubble"},
+    { "predicate": { "custom_model_data": 7810089 }, "model": "item/lime_terracotta_rubble"},
+    { "predicate": { "custom_model_data": 7810090 }, "model": "item/green_terracotta_rubble"},
+    { "predicate": { "custom_model_data": 7810091 }, "model": "item/cyan_terracotta_rubble"},
+    { "predicate": { "custom_model_data": 7810092 }, "model": "item/light_blue_terracotta_rubble"},
+    { "predicate": { "custom_model_data": 7810093 }, "model": "item/blue_terracotta_rubble"},
+    { "predicate": { "custom_model_data": 7810094 }, "model": "item/purple_terracotta_rubble"},
+    { "predicate": { "custom_model_data": 7810095 }, "model": "item/magenta_terracotta_rubble"},
+    { "predicate": { "custom_model_data": 7810096 }, "model": "item/pink_terracotta_rubble"}
   ]
 }
