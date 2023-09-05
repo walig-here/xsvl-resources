@@ -107,6 +107,10 @@
     { "predicate": { "custom_model_data": 7810109 }, "model": "item/pile_of_blue_concrete"},
     { "predicate": { "custom_model_data": 7810110 }, "model": "item/pile_of_purple_concrete"},
     { "predicate": { "custom_model_data": 7810111 }, "model": "item/pile_of_magenta_concrete"},
-    { "predicate": { "custom_model_data": 7810112 }, "model": "item/pile_of_pink_concrete"}
+    { "predicate": { "custom_model_data": 7810112 }, "model": "item/pile_of_pink_concrete"},
+    { "predicate": { "custom_model_data": 7810113 }, "model": "item/redstone_socket"},
+    { "predicate": { "custom_model_data": 7810114 }, "model": "item/saw"},
+    { "predicate": { "custom_model_data": 7810115 }, "model": "item/redstone_clutch"},
+    { "predicate": { "custom_model_data": 7810116 }, "model": "item/transmission_belt"}
   ]
 }
