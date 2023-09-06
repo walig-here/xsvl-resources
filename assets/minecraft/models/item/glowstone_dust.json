@@ -112,6 +112,7 @@
     { "predicate": { "custom_model_data": 7810114 }, "model": "item/saw"},
     { "predicate": { "custom_model_data": 7810115 }, "model": "item/redstone_clutch"},
     { "predicate": { "custom_model_data": 7810116 }, "model": "item/transmission_belt"},
-    { "predicate": { "custom_model_data": 7810117 }, "model": "item/gear"}
+    { "predicate": { "custom_model_data": 7810117 }, "model": "item/gear"},
+    { "predicate": { "custom_model_data": 7810118 }, "model": "item/beacon_core"}
   ]
 }
