@@ -114,6 +114,9 @@
     { "predicate": { "custom_model_data": 7810116 }, "model": "item/transmission_belt"},
     { "predicate": { "custom_model_data": 7810117 }, "model": "item/gear"},
     { "predicate": { "custom_model_data": 7810118 }, "model": "item/beacon_core"},
-    { "predicate": { "custom_model_data": 7810119 }, "model": "item/copper_dust"}
+    { "predicate": { "custom_model_data": 7810119 }, "model": "item/copper_dust"},
+    { "predicate": { "custom_model_data": 7810120 }, "model": "item/redstone_heart"},
+    { "predicate": { "custom_model_data": 7810121 }, "model": "item/redstone_chip"},
+    { "predicate": { "custom_model_data": 7810122 }, "model": "item/redstone_lense"}
   ]
 }
