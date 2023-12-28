@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/chicken"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 7810123 }, "model": "item/raw_axolotl"},
+    { "predicate": { "custom_model_data": 7810124 }, "model": "item/bat_wing"}
+  ]
+}

@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/dried_kelp"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 7810050 }, "model": "minecraft:item/honey" }
+    { "predicate": { "custom_model_data": 7810050 }, "model": "minecraft:item/honey" },
+    { "predicate": { "custom_model_data": 7810123 }, "model": "item/raw_axolotl"}
   ]
 }
