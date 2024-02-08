@@ -117,6 +117,8 @@
     { "predicate": { "custom_model_data": 7810119 }, "model": "item/copper_dust"},
     { "predicate": { "custom_model_data": 7810120 }, "model": "item/redstone_heart"},
     { "predicate": { "custom_model_data": 7810121 }, "model": "item/redstone_chip"},
-    { "predicate": { "custom_model_data": 7810122 }, "model": "item/redstone_lense"}
+    { "predicate": { "custom_model_data": 7810122 }, "model": "item/redstone_lense"},
+    { "predicate": { "custom_model_data": 7810126 }, "model": "item/nitre"},
+    { "predicate": { "custom_model_data": 7810127 }, "model": "item/creeper_prime"}
   ]
 }
