@@ -7,7 +7,7 @@
       "model": "minecraft:block/polished_andesite"
     },
     "type=top": {
-      "model": "minecraft:block/polished_andesite"
+      "model": "minecraft:block/polished_andesite_slab_top"
     },
     "type=double,waterlogged=true": {
       "model": "minecraft:block/cobbled_tuff"

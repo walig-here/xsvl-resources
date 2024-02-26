@@ -4,10 +4,10 @@
       "model": "minecraft:block/polished_diorite_slab"
     },
     "type=double,waterlogged=false": {
-      "model": "minecraft:block/polished_diorite"
+      "model": "minecraft:block/cobbled_calcite"
     },
     "type=top": {
-      "model": "minecraft:block/polished_diorite"
+      "model": "minecraft:block/polished_diorite_slab_top"
     },
     "type=double,waterlogged=true": {
       "model": "minecraft:block/cobbled_calcite"
